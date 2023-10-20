@@ -1,0 +1,316 @@
+body {
+  display: flex;
+}
+
+.big {
+  width: 15%;
+}
+.bg-primary {
+  color: white;
+}
+.mx-3 {
+  position: relative;
+  top: 4px;
+}
+.d-flex {
+  background-color: rgb(76, 76, 248);
+  height: 80px;
+  align-items: center;
+}
+.mini {
+  display: flex;
+  align-items: center;
+  position: relative;
+  left: 20px;
+}
+.home {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.s1 {
+  position: relative;
+  left: 50px;
+  top: 25px;
+}
+.p {
+  color: gray;
+  text-align: center;
+  position: relative;
+  top: 25px;
+  text-decoration: none;
+}
+.pp {
+  color: gray;
+  position: relative;
+  top: 50px;
+  left: 10px;
+  text-decoration: none;
+}
+.pp:hover {
+  color: blue;
+}
+.ppp {
+  text-decoration: none;
+  color: gray;
+  position: relative;
+  top: 70px;
+  left: 15px;
+}
+.ppp:hover {
+  color: blue;
+}
+.home:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+
+.p:hover {
+  color: blue;
+}
+.s1:hover {
+  color: blue;
+}
+
+.sredniy {
+  display: flex;
+}
+.service {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.service:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.icons {
+  position: relative;
+  top: 7px;
+  cursor: pointer;
+}
+.sredniy1 {
+  display: flex;
+  position: relative;
+  top: 7px;
+}
+.contact {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.contact:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.component {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.component:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.utilities {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.utilities:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.sredniy2 {
+  display: flex;
+  position: relative;
+  top: 14px;
+}
+.documentation {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.documentation:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.features {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.features:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.sredniy3 {
+  display: flex;
+  position: relative;
+  top: 22px;
+}
+.cart {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.cart:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.blog {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.blog:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.sredniy4 {
+  display: flex;
+  position: relative;
+  top: 30px;
+}
+.about {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.about:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.sredniy5 {
+  display: flex;
+  position: relative;
+  top: 38px;
+}
+.portfolio {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.portfolio:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.pricing {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.pricing:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.sredniy6 {
+  display: flex;
+  position: relative;
+  top: 44px;
+}
+.terms {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.terms:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.support {
+  width: 50%;
+  height: 95px;
+  background-color: rgb(246, 242, 242);
+  border-radius: 15px;
+}
+.support:hover {
+  background-color: rgb(217, 215, 215);
+  color: blue;
+  transition: 0.9s;
+}
+.big2 {
+  width: 100%;
+  padding-top: 20px;
+}
+.icons2 {
+  display: flex;
+  gap: 20px;
+  position: relative;
+  left: 20px;
+  cursor: pointer;
+}
+.ms-auto {
+  display: flex;
+  gap: 30px;
+  position: relative;
+  right: 40px;
+}
+.s2 {
+  position: relative;
+  left: 170px;
+  top: -2px;
+  cursor: pointer;
+}
+.fotos1 {
+  width: 100%;
+  position: relative;
+  left: 30px;
+  top: 25px;
+}
+.text-center {
+  width: 100%;
+  position: relative;
+  top: 25px;
+  left: 29px;
+}
+.fotos2 {
+  width: 100%;
+  position: relative;
+  left: 120px;
+  top: 25px;
+}
+.fotos3 {
+  /* width: 1421px; */
+  position: relative;
+  top: 25px;
+  left: 20px;
+}
+.col-4:hover {
+  position: relative;
+  top: -8px;
+  transform: scale(0.9);
+  transition: ease 0.3s;
+}
+.col-5:hover {
+  position: relative;
+  top: -1px;
+  transform: scale(0.9);
+  transition: ease 0.3s;
+}
